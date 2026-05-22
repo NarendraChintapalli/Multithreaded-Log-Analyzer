@@ -65,18 +65,6 @@ The project aligns well with:
 
 ---
 
-# Project Structure
-
-```bash
-cpp-multithreaded-log-analyzer/
-│
-├── main.cpp
-├── logs.txt
-└── README.md
-```
-
----
-
 # Sample Log File
 
 ```txt
