@@ -1,0 +1,12 @@
+INFO: Server started
+WARNING: High memory usage
+ERROR: Database connection failed
+INFO: User login successful
+ERROR: Timeout occurred
+WARNING: CPU usage high
+INFO: Request processed
+ERROR: File not found
+INFO: Service restarted
+WARNING: Disk space low
+ERROR: Authentication failed
+INFO: Backup completed
